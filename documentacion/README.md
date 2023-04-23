@@ -43,4 +43,4 @@ Este fue nuestro primer avance.
 
 * Esta seria la interfaz final de nuestra app
 
-<img src="./IMG/img_7.jpeg" width="400px">
+<img src="./IMG/img_10.jpeg" width="400px">
