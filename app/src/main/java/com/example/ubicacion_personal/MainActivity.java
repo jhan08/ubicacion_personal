@@ -37,6 +37,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        //poner el icono en la barra
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
+        getSupportActionBar().setIcon(R.mipmap.ic_launcher);
+
         et1 = (EditText) findViewById(R.id.txt_nom);
         tv1 = (TextView) findViewById(R.id.txt_1);
 
